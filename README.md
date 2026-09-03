@@ -1,7 +1,7 @@
 # I Workshop de Genômica em Plantas (2026)
 **Genômica Populacional, Marcadores NGS e Ferramentas Bioinformáticas Aplicadas à Flora Nativa**
-
-Projeto Pensa Rio / FAPERJ — Proc. SEI-260003/020289/2025
+Workshop realizado nos dias 31/08/2026 a 4/09/2026
+Projeto Pensa Rio / FAPERJ
 
 ## 📁 Estrutura do Repositório
 - `/scripts/01_bioinfo`: Scripts em Bash/Linux para qualidade de leituras e execução do Stacks v2.68.
