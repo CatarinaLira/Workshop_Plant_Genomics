@@ -1,7 +1,7 @@
-# I Workshop de Genômica em Plantas (2026)
+# I Workshop de Genômica de Plantas (2026)
 **Genômica Populacional, Marcadores NGS e Ferramentas Bioinformáticas Aplicadas à Flora Nativa**
 
-Workshop realizado nos dias 31/08/2026 a 4/09/2026
+Workshop realizado nos dias 31/08/2026 a 4/09/2026 \n
 Projeto Pensa Rio / FAPERJ
 
 ## 📁 Estrutura do Repositório
