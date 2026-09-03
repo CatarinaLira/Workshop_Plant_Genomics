@@ -3,13 +3,13 @@ Para facilitar essas discussões, as apresentações foram organizadas em blocos
 Após cada bloco, teremos um momento de discussão integrada, para conversarmos sobre os projetos apresentados, as diferentes abordagens utilizadas 
 e as possibilidades de aplicação da genômica vegetal em cada estudo.
 
-*A programação será:*
+**A programação será:**
 09:00–12:00 Apresentações dos discentes — Blocos 1 e 2 e discussões integradas com base nas apresentações
 13:30–15:20 Apresentações dos discentes — Bloco 3 e discussão científica com base nas apresentações
 15:40–16:40 Apresentação do Projeto PensaRio
 16:40–17:00 Considerações finais, avaliação e encerramento oficial do curso
 
-*Bloco 1 — Filogenômica e delimitação de espécies em Fabaceae*
+**Bloco 1 — Filogenômica e delimitação de espécies em Fabaceae**
 
 Matheus — Sistemática e filogenômica de Dalbergieae (Fabaceae)
 Anastácia — Taxonomia e filogenômica de Dussia (Fabaceae)
@@ -17,14 +17,14 @@ Francisco — Revisão e delimitação de complexo de espécies de Macrolobium (
 Lukas — Filogenômica e biogeografia do clado Ateleia (Fabaceae)
 Elton Jhon — Taxonomia, biogeografia e filogenômica de Fabaceae do Alto Rio Negro
 
-*Bloco 2 — Filogenômica e evolução de linhagens*
+**Bloco 2 — Filogenômica e evolução de linhagens**
 
 Natan — Filogenômica e circunscrição de Sobralieae (Orchidaceae)
 Annícia — Filogenômica, biogeografia e diversificação de Humiriaceae
 Juliana — Taxonomia e filogenômica de Philodendron sect. Baursia (Araceae)
 Vinicius — Taxonomia e delimitação de espécies de Myrciaria (Myrtaceae)
 
-*Bloco 3 — Genética de populações e delimitação de espécies*
+**Bloco 3 — Genética de populações e delimitação de espécies**
 
 Cauê — Genética de populações, delimitação de espécies, adaptação e modelagem de nicho em Melastomataceae
 Mylena — Processos microevolutivos e diversificação em Eriocaulaceae
